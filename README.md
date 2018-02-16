@@ -4,3 +4,4 @@
 ![Image alt](https://github.com/yuryf1/MyFirstWindowsFormApp/raw/master/image.png)
 
 логика: Form.cs
+программа: Брахман.exe
